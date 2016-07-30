@@ -1,4 +1,5 @@
 # Labo3D
+Look at [Labo3D](http://rudds.jp/labo3d) ([http://rudds.jp/labo3d](http://rudds.jp/labo3d)).  
 Labo3D is a virtual 3d labo visiting system.
 ![UnitX logo image](images/overview.png)
 
@@ -9,8 +10,8 @@ We use Unity as developing environment.
 ![UnitX logo image](images/view_of_unity.png)
 
 ##Author
-Tasuku TAKAHASHI(supertask)
-Kengo Imae
+Tasuku TAKAHASHI (supertask)  
+Kengo Imae (kengo92i)
 
 ##Released
 Aug 2015
